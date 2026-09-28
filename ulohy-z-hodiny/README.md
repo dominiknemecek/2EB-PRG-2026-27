@@ -10,7 +10,7 @@ obráceně (S1 pátek, S2 čtvrtek).
 
 | Téma hodiny | Složka | Skupina S1 (datum) | Skupina S2 (datum) | Obsah |
 | --- | --- | --- | --- | --- |
-| | | 2026-09-11 | 2026-09-10 | |
+| Úvod do jazyka C, proměnné | [01-zaklady-programovani-c](01-zaklady-programovani-c) | 2026-09-11 | 2026-09-10 | Hello world, proměnné a výpis přes printf |
 | | | 2026-09-17 | 2026-09-18 | |
 | | | 2026-09-25 | 2026-09-24 | |
 | | | 2026-10-01 | 2026-10-02 | |
